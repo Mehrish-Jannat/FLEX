@@ -1,0 +1,20 @@
+h1{
+    color:aqua
+}
+
+.TopThing{
+    border: solid;
+    background-color:lavenderblush;
+    display:flex; 
+    justify-content:space-between
+}
+
+h2,p{
+    text-align:center
+}
+
+.imagething{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
